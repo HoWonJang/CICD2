@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("Helsvvlodfs Wolrd");
+    printf("Helodfs Wolrd");
     return 0;
 }
